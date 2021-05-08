@@ -5,6 +5,7 @@ package strategy;
  * @date 2020/12/19 18:24
  * @motto 恢弘志士之气，不宜妄自菲薄
  */
+
 public class DogComparator implements Comparator<Dog> {
     @Override
     public int compare(Dog o1, Dog o2) {

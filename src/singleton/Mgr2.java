@@ -5,6 +5,7 @@ package singleton;
  * @date 2020/12/19 14:11
  * @motto 恢弘志士之气，不宜妄自菲薄
  */
+
 public class Mgr2 {
     private volatile static Mgr2 INSTANCE;
 

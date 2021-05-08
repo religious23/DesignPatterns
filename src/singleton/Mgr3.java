@@ -5,6 +5,7 @@ package singleton;
  * @date 2020/12/19 14:21
  * @motto 恢弘志士之气，不宜妄自菲薄
  */
+
 public class Mgr3 {
     private Mgr3() {
 

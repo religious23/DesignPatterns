@@ -5,6 +5,7 @@ package strategy;
  * @date 2020/12/19 17:39
  * @motto 恢弘志士之气，不宜妄自菲薄
  */
+
 public class Dog {
     int food;
 

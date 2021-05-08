@@ -5,6 +5,7 @@ package strategy;
  * @date 2020/12/19 17:21
  * @motto 恢弘志士之气，不宜妄自菲薄
  */
+
 public class Cat implements Comparable<Cat>{
     int weight,height;
     public Cat (int weight,int height){

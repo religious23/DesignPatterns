@@ -5,6 +5,7 @@ package singleton;
  * @date 2020/12/19 14:06
  * @motto 恢弘志士之气，不宜妄自菲薄
  */
+
 public class Mgr1 {
     private static final Mgr1 INSTANCE =new Mgr1();
     private Mgr1(){
