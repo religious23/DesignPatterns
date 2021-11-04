@@ -1,4 +1,4 @@
-package singleton;
+package 单例模式;
 
 /**
  * @author 王文
