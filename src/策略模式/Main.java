@@ -1,4 +1,4 @@
-package strategy;
+package 策略模式;
 
 import java.util.Arrays;
 
